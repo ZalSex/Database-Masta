@@ -1,7 +1,6 @@
 {
   "id": "4517f68c4118170a",
   "name": "V2038",
-  "socketId": "jAU0hxUzG_SpUJ36AABz",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-10-11T10:01:55.767Z",
   "connectedAt": "2026-10-11T10:01:47.074Z",
-  "lastSeen": "2026-10-11T10:01:47.074Z",
-  "ownerUid": "NJIVEOCW71BW576I",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-11T10:01:47.074Z",
-  "online": true
+  "ownerUid": "NJIVEOCW71BW576I",
+  "online": false
 }
