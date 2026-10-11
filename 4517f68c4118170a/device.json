@@ -1,7 +1,7 @@
 {
   "id": "4517f68c4118170a",
   "name": "V2038",
-  "socketId": "D_1SPCndc_diDnh_AABV",
+  "socketId": "Ps4_jYOEhNG8QGsgAABW",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "connectedAt": "2026-10-11T09:01:13.965Z",
-  "lastSeen": "2026-10-11T09:01:13.965Z",
+  "connectedAt": "2026-10-11T09:06:22.960Z",
+  "lastSeen": "2026-10-11T09:06:22.960Z",
   "ownerUid": "NJIVEOCW71BW576I",
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-11T09:01:13.967Z",
+  "accessibilityLastSeen": "2026-10-11T09:06:22.961Z",
   "online": true
 }
