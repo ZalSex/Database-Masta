@@ -1,0 +1,40 @@
+{
+  "id": "233c1f7a44d2fcc9",
+  "name": "V2455",
+  "socketId": "lJ0LpkgzeE18fpmiAAAe",
+  "info": {
+    "sdk": 36,
+    "manufacturer": "vivo",
+    "model": "V2455",
+    "battery": 36,
+    "charging": false,
+    "sim": "Unknown"
+  },
+  "connectedAt": "2026-10-15T16:03:37.452Z",
+  "lastSeen": "2026-10-15T16:03:37.452Z",
+  "ownerUid": null,
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-15T16:03:37.454Z",
+  "online": true
+}
