@@ -1,7 +1,7 @@
 {
   "id": "fa8e12910c4342af",
   "name": "Infinix HOT 50",
-  "socketId": "JsITBAC3G4R3tun_AAFb",
+  "socketId": "rU04MjN-cYFMLuyzAAFc",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-10-19T03:58:13.040Z",
-  "lastSeen": "2026-10-19T03:58:13.040Z",
+  "connectedAt": "2026-10-19T03:58:55.481Z",
+  "lastSeen": "2026-10-19T03:58:55.481Z",
   "ownerUid": null,
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-19T03:58:13.040Z",
+  "accessibilityLastSeen": "2026-10-19T03:58:55.481Z",
   "online": true
 }
