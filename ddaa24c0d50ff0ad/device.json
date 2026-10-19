@@ -1,16 +1,18 @@
 {
   "id": "ddaa24c0d50ff0ad",
   "name": "vivo 1904",
+  "socketId": "Hx11KSqlcjrlUaqmAAJC",
   "info": {
     "sdk": 28,
     "manufacturer": "vivo",
     "model": "vivo 1904",
-    "battery": 100,
-    "charging": true,
-    "sim": "TELKOMSEL"
+    "battery": 98,
+    "charging": false,
+    "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-19T12:04:05.523Z",
-  "connectedAt": "2026-10-19T12:02:54.892Z",
+  "connectedAt": "2026-10-19T12:20:42.255Z",
+  "lastSeen": "2026-10-19T12:20:42.255Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-19T12:20:42.256Z",
+  "online": true
 }
