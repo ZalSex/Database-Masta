@@ -1,0 +1,40 @@
+{
+  "id": "ddaa24c0d50ff0ad",
+  "name": "vivo 1904",
+  "socketId": "8SWxukJaW6MEwNYpAAHx",
+  "info": {
+    "sdk": 28,
+    "manufacturer": "vivo",
+    "model": "vivo 1904",
+    "battery": 93,
+    "charging": true,
+    "sim": "TELKOMSEL"
+  },
+  "connectedAt": "2026-10-19T11:49:23.191Z",
+  "lastSeen": "2026-10-19T11:49:23.191Z",
+  "ownerUid": null,
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-19T11:49:23.192Z",
+  "online": true
+}
