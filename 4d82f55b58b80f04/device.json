@@ -1,18 +1,16 @@
 {
   "id": "4d82f55b58b80f04",
   "name": "Galaxy A32",
-  "socketId": "RzAL7mSUCZqgAcEgAAB9",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
     "model": "SM-A325F",
-    "battery": 62,
+    "battery": 61,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "connectedAt": "2026-10-20T13:03:19.852Z",
-  "lastSeen": "2026-10-20T13:03:19.852Z",
-  "ownerUid": null,
+  "lastSeen": "2026-10-20T13:04:34.901Z",
+  "connectedAt": "2026-10-20T13:04:34.840Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-20T13:03:19.852Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
