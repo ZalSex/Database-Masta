@@ -1,0 +1,40 @@
+{
+  "id": "010d509650c5b278",
+  "name": "V2327",
+  "socketId": "-pa_JbI2xOUrNwcdAAAE",
+  "info": {
+    "sdk": 36,
+    "manufacturer": "vivo",
+    "model": "V2327",
+    "battery": 53,
+    "charging": false,
+    "sim": "Unknown"
+  },
+  "connectedAt": "2026-10-20T09:20:13.895Z",
+  "lastSeen": "2026-10-20T09:20:13.895Z",
+  "ownerUid": null,
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-20T09:20:13.896Z",
+  "online": true
+}
