@@ -1,7 +1,6 @@
 {
   "id": "4d82f55b58b80f04",
   "name": "Galaxy A32",
-  "socketId": "NCxKeepLEzn-YeQRAAB7",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "connectedAt": "2026-10-20T13:00:54.812Z",
-  "lastSeen": "2026-10-20T13:00:54.812Z",
-  "ownerUid": null,
+  "lastSeen": "2026-10-20T13:02:09.837Z",
+  "connectedAt": "2026-10-20T13:02:09.479Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-20T13:00:54.812Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
