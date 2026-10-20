@@ -1,7 +1,7 @@
 {
   "id": "010d509650c5b278",
   "name": "V2327",
-  "socketId": "S8f6X0OkbOtn1BlVAABz",
+  "socketId": "GEIqUJomyE8N6ReSAAB1",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "connectedAt": "2026-10-20T12:48:40.231Z",
-  "lastSeen": "2026-10-20T12:48:40.231Z",
+  "connectedAt": "2026-10-20T12:53:40.540Z",
+  "lastSeen": "2026-10-20T12:53:40.540Z",
   "ownerUid": null,
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-20T12:48:40.232Z",
+  "accessibilityLastSeen": "2026-10-20T12:53:40.541Z",
   "online": true
 }
