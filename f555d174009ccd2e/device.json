@@ -1,6 +1,7 @@
 {
   "id": "f555d174009ccd2e",
   "name": "Redmi Note 13",
+  "socketId": "GLPG06iv2gHLXD73AABZ",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-10-21T11:36:42.111Z",
-  "connectedAt": "2026-10-21T11:36:40.331Z",
+  "connectedAt": "2026-10-21T11:37:52.343Z",
+  "lastSeen": "2026-10-21T11:37:52.343Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-21T11:37:52.343Z",
+  "online": true
 }
