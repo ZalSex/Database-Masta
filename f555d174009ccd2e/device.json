@@ -1,26 +1,24 @@
 {
   "id": "f555d174009ccd2e",
   "name": "Redmi Note 13",
-  "socketId": "3XJxQQy9uE6N-V5sAAAM",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "23124RA7EO",
-    "battery": 27,
+    "battery": 23,
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-10-21T16:32:21.037Z",
   "connectedAt": "2026-10-21T16:01:49.878Z",
-  "lastSeen": "2026-10-21T16:01:49.878Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
@@ -32,9 +30,11 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": true,
+    "protection": true,
+    "audioPlaying": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-21T16:01:49.879Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
