@@ -1,18 +1,16 @@
 {
   "id": "fa8e12910c4342af",
   "name": "Infinix HOT 50",
-  "socketId": "GnoJ1mavKEzepk6FAADj",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6882",
-    "battery": 23,
+    "battery": 22,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-10-24T23:29:18.746Z",
   "connectedAt": "2026-10-24T23:26:21.386Z",
-  "lastSeen": "2026-10-24T23:26:21.386Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-24T23:26:21.386Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
