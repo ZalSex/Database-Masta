@@ -1,17 +1,17 @@
 {
   "id": "dc4a1239d5205fe8",
   "name": "CPH1909",
-  "socketId": "n3amafTVwqi3HgYNAAGV",
+  "socketId": "G4wfYHRrEBY5ETIzAAGx",
   "info": {
     "sdk": 27,
     "manufacturer": "OPPO",
     "model": "CPH1909",
-    "battery": 70,
+    "battery": 69,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-10-26T13:48:38.509Z",
-  "lastSeen": "2026-10-26T13:48:38.509Z",
+  "connectedAt": "2026-10-26T15:55:43.305Z",
+  "lastSeen": "2026-10-26T15:55:43.305Z",
   "ownerUid": "YCDYRPBE3EC5AOM1",
   "status": {
     "flashlight": false,
@@ -20,7 +20,7 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-26T13:48:38.509Z",
+  "accessibilityLastSeen": "2026-10-26T15:55:43.307Z",
   "online": true
 }
