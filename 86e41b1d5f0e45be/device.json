@@ -1,6 +1,7 @@
 {
   "id": "86e41b1d5f0e45be",
   "name": "V2204",
+  "socketId": "YBV-sN1p8Nn6qoKfAAGh",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "ISAT-PEMILUDAMAI"
   },
-  "lastSeen": "2026-10-27T16:38:04.185Z",
-  "connectedAt": "2026-10-27T16:27:35.030Z",
+  "connectedAt": "2026-10-27T16:49:11.217Z",
+  "lastSeen": "2026-10-27T16:49:11.217Z",
+  "ownerUid": "YCJI8J4L8H2P2DIZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "YCJI8J4L8H2P2DIZ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-27T16:49:11.217Z",
+  "online": true
 }
