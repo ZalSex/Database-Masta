@@ -1,16 +1,18 @@
 {
   "id": "2c33e062a476bb92",
   "name": "OPPO A77s",
+  "socketId": "dg-TrEhEb1-QPG_aAABq",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2473",
-    "battery": 76,
+    "battery": 75,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-10-27T09:50:56.912Z",
-  "connectedAt": "2026-10-27T09:49:32.609Z",
+  "connectedAt": "2026-10-27T09:55:38.319Z",
+  "lastSeen": "2026-10-27T09:55:38.319Z",
+  "ownerUid": "YCDYRPBE3EC5AOM1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,10 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true
+    "screenColorValue": ""
   },
-  "ownerUid": "YCDYRPBE3EC5AOM1",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-27T09:55:38.319Z",
+  "online": true
 }
