@@ -1,0 +1,380 @@
+[
+  {
+    "number": "+622662489291",
+    "name": "",
+    "type": "missed",
+    "duration": 59,
+    "date": 1792059067205
+  },
+  {
+    "number": "+622662489295",
+    "name": "",
+    "type": "missed",
+    "duration": 54,
+    "date": 1792054271934
+  },
+  {
+    "number": "+6287832800103",
+    "name": "",
+    "type": "incoming",
+    "duration": 9,
+    "date": 1789226616092
+  },
+  {
+    "number": "+6281573425585",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1785931928684
+  },
+  {
+    "number": "+6287717117941",
+    "name": "",
+    "type": "missed",
+    "duration": 27,
+    "date": 1784276284847
+  },
+  {
+    "number": "+6287866821374",
+    "name": "",
+    "type": "missed",
+    "duration": 59,
+    "date": 1783948651645
+  },
+  {
+    "number": "+6281573425585",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1782709386921
+  },
+  {
+    "number": "+6281573425585",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1782629132627
+  },
+  {
+    "number": "+6281573425585",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1782629126487
+  },
+  {
+    "number": "+6281573425585",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1782629105758
+  },
+  {
+    "number": "+6287833522346",
+    "name": "",
+    "type": "incoming",
+    "duration": 4,
+    "date": 1780383998175
+  },
+  {
+    "number": "+6281776363394",
+    "name": "",
+    "type": "missed",
+    "duration": 55,
+    "date": 1778180249398
+  },
+  {
+    "number": "+6281776363395",
+    "name": "",
+    "type": "incoming",
+    "duration": 0,
+    "date": 1778179477278
+  },
+  {
+    "number": "+6281776363393",
+    "name": "",
+    "type": "missed",
+    "duration": 52,
+    "date": 1778176647214
+  },
+  {
+    "number": "+6287838783428",
+    "name": "",
+    "type": "missed",
+    "duration": 56,
+    "date": 1778173087668
+  },
+  {
+    "number": "+6281141255105",
+    "name": "",
+    "type": "incoming",
+    "duration": 3,
+    "date": 1777375725251
+  },
+  {
+    "number": "+62895002108630",
+    "name": "",
+    "type": "missed",
+    "duration": 16,
+    "date": 1776830715512
+  },
+  {
+    "number": "+62895002108560",
+    "name": "",
+    "type": "missed",
+    "duration": 13,
+    "date": 1776658673441
+  },
+  {
+    "number": "+6283133427379",
+    "name": "",
+    "type": "missed",
+    "duration": 16,
+    "date": 1772816879782
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "missed",
+    "duration": 49,
+    "date": 1769826489834
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "missed",
+    "duration": 59,
+    "date": 1769826425163
+  },
+  {
+    "number": "+6285797201042",
+    "name": "",
+    "type": "missed",
+    "duration": 23,
+    "date": 1769221857884
+  },
+  {
+    "number": "+6285797201042",
+    "name": "",
+    "type": "missed",
+    "duration": 21,
+    "date": 1769221703362
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "missed",
+    "duration": 5,
+    "date": 1768121393055
+  },
+  {
+    "number": "+6281265250626",
+    "name": "",
+    "type": "missed",
+    "duration": 4,
+    "date": 1768010848407
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1767847613368
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "incoming",
+    "duration": 358,
+    "date": 1766975874785
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "missed",
+    "duration": 47,
+    "date": 1766974795478
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1766972614877
+  },
+  {
+    "number": "+6283840239134",
+    "name": "",
+    "type": "missed",
+    "duration": 41,
+    "date": 1766970840448
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "missed",
+    "duration": 15,
+    "date": 1764250375960
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "missed",
+    "duration": 38,
+    "date": 1764243878711
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 702,
+    "date": 1764128659086
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 300,
+    "date": 1764128350540
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 139,
+    "date": 1764052308157
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 950,
+    "date": 1763858330867
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 57,
+    "date": 1763810563838
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "incoming",
+    "duration": 346,
+    "date": 1763728735353
+  },
+  {
+    "number": "+622130826503",
+    "name": "",
+    "type": "missed",
+    "duration": 49,
+    "date": 1759232117019
+  },
+  {
+    "number": "+628156244798",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1756521712468
+  },
+  {
+    "number": "+6281119707644",
+    "name": "",
+    "type": "missed",
+    "duration": 44,
+    "date": 1754292119722
+  },
+  {
+    "number": "+6283139184283",
+    "name": "",
+    "type": "missed",
+    "duration": 59,
+    "date": 1754208897878
+  },
+  {
+    "number": "+6285657686064",
+    "name": "",
+    "type": "incoming",
+    "duration": 44,
+    "date": 1754204947925
+  },
+  {
+    "number": "+6285862742534",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1754112493189
+  },
+  {
+    "number": "+6285862742534",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1754112408572
+  },
+  {
+    "number": "+6285862742534",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1754112360990
+  },
+  {
+    "number": "+6285862742534",
+    "name": "",
+    "type": "missed",
+    "duration": 1,
+    "date": 1754112300849
+  },
+  {
+    "number": "+622130992995",
+    "name": "",
+    "type": "missed",
+    "duration": 28,
+    "date": 1754111872983
+  },
+  {
+    "number": "+6285873266049",
+    "name": "",
+    "type": "missed",
+    "duration": 40,
+    "date": 1753233676097
+  },
+  {
+    "number": "+6285873356738",
+    "name": "",
+    "type": "missed",
+    "duration": 40,
+    "date": 1753177217827
+  },
+  {
+    "number": "+6285873356696",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1753153613235
+  },
+  {
+    "number": "+6285873356696",
+    "name": "",
+    "type": "missed",
+    "duration": 34,
+    "date": 1753152092028
+  },
+  {
+    "number": "+628893591724",
+    "name": "",
+    "type": "missed",
+    "duration": 8,
+    "date": 1753089600067
+  },
+  {
+    "number": "+6285862742534",
+    "name": "",
+    "type": "incoming",
+    "duration": 60,
+    "date": 1752465653914
+  }
+]
