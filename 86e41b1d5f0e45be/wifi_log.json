@@ -1,0 +1,17 @@
+[
+  {
+    "ts": "2026-10-28T04:23:19.608Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "02:00:00:00:00:00",
+      "ipAddress": "192.168.1.4",
+      "linkSpeed": "65 Mbps",
+      "rssi": -35,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-10-28 11:23:19"
+    },
+    "savedNets": [],
+    "count": 0
+  }
+]
