@@ -1,7 +1,7 @@
 {
   "id": "9e52093fdbcd5b37",
   "name": "Tecno Pova 2",
-  "socketId": "pU0l9sOiWWQ8CpazAAAD",
+  "socketId": "znPLfAftFrQEXycJAAAD",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "connectedAt": "2026-10-29T02:55:58.361Z",
-  "lastSeen": "2026-10-29T02:55:58.362Z",
+  "connectedAt": "2026-10-29T02:59:21.386Z",
+  "lastSeen": "2026-10-29T02:59:21.386Z",
   "ownerUid": null,
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-29T02:55:58.362Z",
+  "accessibilityLastSeen": "2026-10-29T02:59:21.386Z",
   "online": true
 }
