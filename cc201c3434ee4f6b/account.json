@@ -1,0 +1,22 @@
+[
+  {
+    "name": "WhatsApp",
+    "type": "com.whatsapp"
+  },
+  {
+    "name": "ibrahimnst1997@gmail.com",
+    "type": "com.google"
+  },
+  {
+    "name": "Meet",
+    "type": "com.google.android.apps.tachyon"
+  },
+  {
+    "name": "Messenger",
+    "type": "com.facebook.messenger"
+  },
+  {
+    "name": "7694690561",
+    "type": "org.telegram.messenger"
+  }
+]
