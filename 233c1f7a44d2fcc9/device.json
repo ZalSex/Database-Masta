@@ -1,6 +1,7 @@
 {
   "id": "233c1f7a44d2fcc9",
   "name": "V2455",
+  "socketId": "SWIr20t7fzjQaURhAAAc",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-29T05:11:37.870Z",
-  "connectedAt": "2026-10-29T05:11:23.387Z",
+  "connectedAt": "2026-10-29T05:12:40.408Z",
+  "lastSeen": "2026-10-29T05:12:40.408Z",
+  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HLG84DKZN28PO78U",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-29T05:12:40.408Z",
+  "online": true
 }
