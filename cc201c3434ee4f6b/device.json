@@ -1,16 +1,18 @@
 {
   "id": "cc201c3434ee4f6b",
   "name": "V2419",
+  "socketId": "6rDq3Q_9YasQ7P7jAAAn",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2419",
-    "battery": 45,
+    "battery": 6,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-11-01T21:18:08.531Z",
-  "connectedAt": "2026-11-01T21:14:35.073Z",
+  "connectedAt": "2026-11-02T07:26:58.931Z",
+  "lastSeen": "2026-11-02T07:26:58.931Z",
+  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HLG84DKZN28PO78U",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-02T07:26:58.933Z",
+  "online": true
 }
