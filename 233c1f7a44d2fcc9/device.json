@@ -1,18 +1,16 @@
 {
   "id": "233c1f7a44d2fcc9",
   "name": "V2455",
-  "socketId": "tvIE0hSfrhVhFHCgAAAC",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2455",
-    "battery": 79,
+    "battery": 78,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-11-05T05:24:00.907Z",
   "connectedAt": "2026-11-05T05:19:46.388Z",
-  "lastSeen": "2026-11-05T05:19:46.388Z",
-  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,9 +30,10 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-05T05:19:46.392Z",
-  "online": true
+  "ownerUid": "HLG84DKZN28PO78U",
+  "online": false
 }
