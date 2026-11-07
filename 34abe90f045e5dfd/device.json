@@ -1,18 +1,16 @@
 {
   "id": "34abe90f045e5dfd",
   "name": "OPPO A5 2020",
-  "socketId": "j-6thTPazwtwTi5CAAD1",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH1933",
-    "battery": 3,
+    "battery": 2,
     "charging": false,
     "sim": "AXIS"
   },
+  "lastSeen": "2026-11-07T18:08:27.926Z",
   "connectedAt": "2026-11-07T18:06:47.955Z",
-  "lastSeen": "2026-11-07T18:06:47.955Z",
-  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-07T18:06:47.955Z",
-  "online": true
+  "ownerUid": "HLG84DKZN28PO78U",
+  "online": false
 }
