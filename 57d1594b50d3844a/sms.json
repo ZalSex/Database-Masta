@@ -649,5 +649,26 @@
     "date": 1794047242798,
     "type": 1,
     "appName": "IM3PAKET"
+  },
+  {
+    "address": "99600",
+    "body": "Pulsa kamu tidak mencukupi untuk layanan ini. Yuk top up sekarang. Cek promo terbaru di *888*30#",
+    "date": 1794053049595,
+    "type": 1,
+    "appName": "SMS"
+  },
+  {
+    "address": "HOT PROMO",
+    "body": "Paketmu akan hangus! Beli paket spesial di Super Hemat\n20GB 15rb / 2hr\n11GB 20rb / 3hr\ncek di *888*5# atau myim3.co/hotdaily",
+    "date": 1794047261380,
+    "type": 1,
+    "appName": "HOT PROMO"
+  },
+  {
+    "address": "IM3PAKET",
+    "body": "2 hari lagi Freedom Internet 4GB/3 Hari diperpanjang pada 09/11/2026 16:05. Perpanjangan paket berlaku ketentuan dan benefit baru. Info: im3.id/freedominternet",
+    "date": 1794047242798,
+    "type": 1,
+    "appName": "IM3PAKET"
   }
 ]
