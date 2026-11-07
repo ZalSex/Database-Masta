@@ -1,17 +1,17 @@
 {
   "id": "57d1594b50d3844a",
   "name": "CPH2083",
-  "socketId": "szct6rlUq1vSJ9bWAACp",
+  "socketId": "g_vPC-BqlQEBPav4AACr",
   "info": {
     "sdk": 28,
     "manufacturer": "OPPO",
     "model": "CPH2083",
-    "battery": 11,
+    "battery": 9,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "connectedAt": "2026-11-07T04:26:17.787Z",
-  "lastSeen": "2026-11-07T04:26:17.787Z",
+  "connectedAt": "2026-11-07T04:27:35.389Z",
+  "lastSeen": "2026-11-07T04:27:35.389Z",
   "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-07T04:26:17.787Z",
+  "accessibilityLastSeen": "2026-11-07T04:27:35.390Z",
   "online": true
 }
