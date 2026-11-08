@@ -1,17 +1,17 @@
 {
   "id": "fce15da1d598cca1",
   "name": "OPPO A3x",
-  "socketId": "OdZczCBL-IsiQC9_AACI",
+  "socketId": "Z883MpFqff3uPuI-AACo",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2641",
-    "battery": 80,
+    "battery": 76,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-11-08T14:32:53.410Z",
-  "lastSeen": "2026-11-08T14:32:53.410Z",
+  "connectedAt": "2026-11-08T14:49:37.553Z",
+  "lastSeen": "2026-11-08T14:49:37.553Z",
   "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-08T14:32:53.411Z",
+  "accessibilityLastSeen": "2026-11-08T14:49:37.553Z",
   "online": true
 }
