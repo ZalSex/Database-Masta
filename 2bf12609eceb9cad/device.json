@@ -1,7 +1,6 @@
 {
   "id": "2bf12609eceb9cad",
   "name": "vivo 2019",
-  "socketId": "c9b1nDDrAYgSlifdAABN",
   "info": {
     "sdk": 29,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-11-08T11:31:21.552Z",
   "connectedAt": "2026-11-08T11:31:19.569Z",
-  "lastSeen": "2026-11-08T11:31:19.569Z",
-  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-08T11:31:19.569Z",
-  "online": true
+  "ownerUid": "HLG84DKZN28PO78U",
+  "online": false
 }
