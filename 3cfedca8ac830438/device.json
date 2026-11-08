@@ -1,7 +1,7 @@
 {
   "id": "3cfedca8ac830438",
   "name": "OPPO A5i",
-  "socketId": "ry4WfTb8avVqorZcAABl",
+  "socketId": "F26_MQszV_GOcrDfAABp",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "connectedAt": "2026-11-08T14:21:49.368Z",
-  "lastSeen": "2026-11-08T14:21:49.368Z",
+  "connectedAt": "2026-11-08T14:24:03.846Z",
+  "lastSeen": "2026-11-08T14:24:03.846Z",
   "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
@@ -21,8 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default",
+    "appHidden": true,
+    "activeTheme": "calculator",
     "spamDialog": false,
     "sos": false,
     "virus": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-08T14:21:49.368Z",
+  "accessibilityLastSeen": "2026-11-08T14:24:03.846Z",
   "online": true
 }
