@@ -1,16 +1,18 @@
 {
   "id": "3cfedca8ac830438",
   "name": "OPPO A5i",
+  "socketId": "wfj_rAbCNXf5V0D1AAB0",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2773",
-    "battery": 61,
+    "battery": 60,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-11-08T14:27:50.139Z",
-  "connectedAt": "2026-11-08T14:27:44.225Z",
+  "connectedAt": "2026-11-08T14:28:04.059Z",
+  "lastSeen": "2026-11-08T14:28:04.059Z",
+  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HLG84DKZN28PO78U",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-08T14:28:04.059Z",
+  "online": true
 }
