@@ -1,6 +1,7 @@
 {
   "id": "fce15da1d598cca1",
   "name": "OPPO A3x",
+  "socketId": "dLndf9XCZYBijKuJAADH",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-11-09T04:50:52.396Z",
-  "connectedAt": "2026-11-09T04:49:37.623Z",
+  "connectedAt": "2026-11-09T04:57:54.265Z",
+  "lastSeen": "2026-11-09T04:57:54.265Z",
+  "ownerUid": "HLG84DKZN28PO78U",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HLG84DKZN28PO78U",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-09T04:57:54.266Z",
+  "online": true
 }
