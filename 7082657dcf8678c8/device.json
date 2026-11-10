@@ -1,6 +1,7 @@
 {
   "id": "7082657dcf8678c8",
   "name": "OPPO A55",
+  "socketId": "Cxfum70fNvqV-ojMAABF",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-11-10T12:43:30.889Z",
-  "connectedAt": "2026-11-10T12:41:31.529Z",
+  "connectedAt": "2026-11-10T12:43:33.756Z",
+  "lastSeen": "2026-11-10T12:43:33.756Z",
+  "ownerUid": "L2JP3V4H3G7E9JB1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "L2JP3V4H3G7E9JB1",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-10T12:43:33.756Z",
+  "online": true
 }
