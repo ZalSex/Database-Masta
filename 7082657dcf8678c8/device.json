@@ -1,19 +1,21 @@
 {
   "id": "7082657dcf8678c8",
   "name": "OPPO A55",
+  "socketId": "EwxxyYBVbE9VyYkDAAAm",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
     "model": "CPH2325",
-    "battery": 48,
+    "battery": 47,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-11-10T11:21:16.164Z",
-  "connectedAt": "2026-11-10T11:20:00.762Z",
+  "connectedAt": "2026-11-10T11:21:21.009Z",
+  "lastSeen": "2026-11-10T11:21:21.009Z",
+  "ownerUid": "L2JP3V4H3G7E9JB1",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
@@ -24,7 +26,7 @@
     "spamDialog": false,
     "sos": false,
     "virus": false,
-    "ambarus": true,
+    "ambarus": false,
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "L2JP3V4H3G7E9JB1",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-10T11:21:21.010Z",
+  "online": true
 }
