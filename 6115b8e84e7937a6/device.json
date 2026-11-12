@@ -1,7 +1,7 @@
 {
   "id": "6115b8e84e7937a6",
   "name": "itel A100C",
-  "socketId": "Bc49s1qnCAiX9F8HAAKQ",
+  "socketId": "zRgjz03jr7o63dCGAAKR",
   "info": {
     "sdk": 35,
     "manufacturer": "ITEL",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "connectedAt": "2026-11-12T05:02:21.666Z",
-  "lastSeen": "2026-11-12T05:02:21.666Z",
+  "connectedAt": "2026-11-12T05:02:36.680Z",
+  "lastSeen": "2026-11-12T05:02:36.680Z",
   "ownerUid": "L2JP3V4H3G7E9JB1",
   "status": {
     "flashlight": false,
@@ -35,6 +35,6 @@
     "screenColorValue": ""
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-12T05:02:21.667Z",
+  "accessibilityLastSeen": "2026-11-12T05:02:36.680Z",
   "online": true
 }
