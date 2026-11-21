@@ -1,0 +1,40 @@
+{
+  "id": "0532a18c4ebe6e04",
+  "name": "V2118",
+  "socketId": "_nXSWfC39GCN5C4kAAEA",
+  "info": {
+    "sdk": 31,
+    "manufacturer": "vivo",
+    "model": "V2118",
+    "battery": 47,
+    "charging": false,
+    "sim": "XL Axiata"
+  },
+  "connectedAt": "2026-11-21T03:44:59.820Z",
+  "lastSeen": "2026-11-21T03:44:59.821Z",
+  "ownerUid": null,
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-21T03:44:59.821Z",
+  "online": true
+}
