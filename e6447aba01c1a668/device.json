@@ -1,6 +1,7 @@
 {
   "id": "e6447aba01c1a668",
   "name": "OnePlus8Pro",
+  "socketId": "3_5OqyjcLc6BZUYZAACU",
   "info": {
     "sdk": 30,
     "manufacturer": "OnePlus",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "T-Mobile - US"
   },
-  "lastSeen": "2026-11-27T10:42:04.693Z",
-  "connectedAt": "2026-11-27T10:41:59.935Z",
+  "connectedAt": "2026-11-27T10:42:06.048Z",
+  "lastSeen": "2026-11-27T10:42:06.048Z",
+  "ownerUid": "IXFS37XL3TT2MZXG",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "IXFS37XL3TT2MZXG",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-27T10:42:06.048Z",
+  "online": true
 }
